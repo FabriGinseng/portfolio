@@ -30,17 +30,11 @@
       <b-nav-item :href="github"
         ><b-icon icon="github" variant="dark"></b-icon
       ></b-nav-item>
-      <b-nav-item :href="phone"
-        ><b-icon icon="telephone-fill" variant="dark"></b-icon
-      ></b-nav-item>
       <b-nav-item :href="mail"
         ><b-icon icon="envelope-fill" variant="dark"></b-icon
       ></b-nav-item>
       <b-nav-item :href="linkedin"
         ><b-icon icon="linkedin" variant="dark"></b-icon
-      ></b-nav-item>
-      <b-nav-item :href="youtube"
-        ><b-icon icon="youtube" variant="dark"></b-icon
       ></b-nav-item>
     </b-navbar-nav>
   </b-navbar>
@@ -51,11 +45,9 @@ export default {
   name: "barraVue",
    data() {
           return {
-                 github: 'https://github.com/scyth3-c',
-                 phone: 'https://wa.me/573203031924',
-                 mail: 'mailto:bohordo.png@gmail.com',
-                 linkedin: 'https://www.linkedin.com/in/kevin-bohorquez-rojas-bohordo/',
-                 youtube: 'https://www.youtube.com/channel/UCAWCJbCl07jXmPz1vHcTqWw'
+                 github: 'https://github.com/FabriGinseng',
+                 mail: 'mailto:antoniofabriziofiume95@gmail.com',
+                 linkedin: 'https://www.linkedin.com/in/antonio-fabrizio-fiume-13345a160',
           }
       }
 };
