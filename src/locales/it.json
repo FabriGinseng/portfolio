@@ -1,7 +1,15 @@
 {
   "message": "ciao i18n !!",
-  "messageProfile": "Ho concluso gli studi informatici presso l'Istituto tecnico Enrico Medi di San Giorgio a Cremano(NA), dopodiché ho intrapreso gli studi in ingegneria nel ramo aerospaziale. Durante il ciclo di studi ho ricevuto un' offerta di lavoro come sviluppatore software presso azienda informatica di Caserta, in cui sono tutt'ora. La scelta di accettare e cominciare una nuova sfida ha dato di nuovo linfa alla mia vita, ormai entrata in quella routine di sessioni, stress e gestione dell'ansia da esami. Riflettei molto se continuare o meno l'università e alla fine decisi di lasciare aerospaziale per ingegneria informatica, in cui ora sono laureato.\nIl mio lavoro di tesi mi ha spinto oltre la mia comfort zone, esplorando argomenti e studi che mai mi sarei immaginato anni fa. Ho realizzato una piattaforma web responsive, attraverso VUE JS, che permette a chi si collega di costruire e operare su mappe concettuali, ma la piattaforma non ha come scopo solo questo, ma soprattuto conoscere la misura dell'entropia didattica. L’entropia misura il disordine didattico. Questa misura infatti fornisce una dimensione di quanto una mappa concettuale, con un numero di concetti/nodi, qualsiasi, e un certo numero di archi, presenti percorsi diversi sui concetti da apprendere. La piattaforma è visibile all'indirizzo https://entropy-henna.vercel.app \nQuesto lavoro mi ha permesso di affrontare nuovi argomenti e spingere le mie conoscenze anche in argomenti che credevo non appartenessero al mio essere.",
+  "messageProfile": "Ho concluso gli studi informatici presso l'Istituto tecnico Enrico Medi di San Giorgio a Cremano(NA), dopodiché ho intrapreso gli studi in ingegneria nel ramo aerospaziale. Durante il ciclo di studi ho ricevuto un' offerta di lavoro come sviluppatore software presso azienda informatica di Caserta, in cui sono tutt'ora. La scelta di accettare e cominciare una nuova sfida ha dato di nuovo linfa alla mia vita, ormai entrata in quella routine di sessioni, stress e gestione dell'ansia da esami. Riflettei molto se continuare o meno l'università e alla fine decisi di lasciare aerospaziale per ingegneria informatica, in cui ora sono laureato.",
   "changeLanguage": "Cambia lingua",
   "languageIT": "Italiano",
-  "languageEN": "Inglese"
+  "languageEN": "Inglese",
+  "messageProfileTitle": "Profilo personale",
+  "messageThesis": "Il lavoro di tesi mi ha spinto oltre la mia comfort zone, esplorando argomenti e studi che mai mi sarei immaginato anni fa. Ho realizzato una piattaforma web responsive, attraverso VUE JS, che permette a chi si collega di costruire e operare su mappe concettuali, ma la piattaforma non ha come scopo solo questo, ma soprattuto conoscere la misura dell'entropia didattica. L’entropia misura il disordine didattico. Questa misura infatti fornisce una dimensione di quanto una mappa concettuale, con un numero di concetti/nodi, qualsiasi, e un certo numero di archi, presenti percorsi diversi sui concetti da apprendere. La piattaforma è visibile all'indirizzo https://entropy-henna.vercel.app \nQuesto lavoro mi ha permesso di affrontare nuovi argomenti e spingere le mie conoscenze anche in argomenti che credevo non appartenessero al mio essere.",
+  "messagePercentage": "Percentuale di utilizzo",
+  "subtitlePercentage": "(Non rappresenta il livello)",
+  "messageTechnology": "Tecnologie utilizzate",
+  "subtitleTechnology": "Muovi il mouse e passa sulle icone",
+  "messageProjects": "I miei progetti e quelli a cui ho partecipato"
+
 }

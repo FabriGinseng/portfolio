@@ -2,30 +2,23 @@
   <div id="app">
     <barra-vue/>
 
-    <div class="m-4">
+    <div class="m-3">
        <div class="row">
-      
+
        <div class="col-md-3">
         <ProfileVue/>
+       </div>
+       <div class="col-md-4">
+        <LenguagesVue/>
         </div>
        <div class="col-md-4">
-        <LenguagesVue/> 
+        <TecnologiesVue/>
         </div>
-       <div class="col-md-4">
-        <TecnologiesVue/> 
-        </div>
+         <about-vue/>
+
+         <projects-vue/>
 
        </div>
-     
-     <projects-vue/>
-     
-
-       <div class="col-md-8 float-center mx-auto">
-        <about-vue/>
-       </div>
-   
-    
-
     </div>
 
   <FooterVue/>

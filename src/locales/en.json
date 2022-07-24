@@ -1,7 +1,15 @@
 {
   "message": "hello i18n !!",
-  "messageProfile": "I completed my computer studies at the Enrico Medi Technical Institute in San Giorgio a Cremano (NA), after which I began my studies in engineering in the aerospace branch. During my studies I received a job offer as a software developer at a computer company in Caserta, where I still am. The choice to accept and start a new challenge has given new life to my life, which has now entered that routine of sessions, stress and management of exam anxiety. I thought a lot about whether or not to continue university and finally decided to leave aerospace for computer engineering, where I am now a graduate.\nMy thesis work pushed me beyond my comfort zone, exploring topics and studies that I never would have imagined years ago. I have created a responsive web platform, through VUE JS, which allows those who connect to build and operate on concept maps, but the platform does not only have this as its purpose, but above all to know the measure of didactic entropy. Entropy measures didactic disorder. This measure in fact provides a dimension of how much a concept map, with any number of concepts / nodes, and a certain number of arcs, presents different paths on the concepts to be learned. The platform is visible at https://entropy-henna.vercel.app\nThis work allowed me to tackle new topics and push my knowledge even into topics that I believed did not belong to my being.",
+  "messageProfile": "I completed my computer studies at the Enrico Medi Technical Institute in San Giorgio a Cremano (NA), after which I began my studies in engineering in the aerospace branch. During my studies I received a job offer as a software developer at a computer company in Caserta, where I still am. The choice to accept and start a new challenge has given new life to my life, which has now entered that routine of sessions, stress and management of exam anxiety. I thought a lot about whether or not to continue university and finally decided to leave aerospace for computer engineering, where I am now a graduate.",
   "changeLanguage": "Change Language",
   "languageIT": "Italian",
-  "languageEN": "English"
+  "languageEN": "English",
+  "messageProfileTitle": "Personal Profile",
+  "messageThesis": "My thesis work pushed me beyond my comfort zone, exploring topics and studies that I never would have imagined years ago. I have created a responsive web platform, through VUE JS, which allows those who connect to build and operate on concept maps, but the platform does not only have this as its purpose, but above all to know the measure of didactic entropy. Entropy measures didactic disorder. This measure in fact provides a dimension of how much a concept map, with any number of concepts / nodes, and a certain number of arcs, presents different paths on the concepts to be learned. The platform is visible at https://entropy-henna.vercel.app\nThis work allowed me to tackle new topics and push my knowledge even into topics that I believed did not belong to my being.",
+  "messagePercentage": "percentage of use",
+  "subtitlePercentage": "(this doesn't represent the level)",
+  "messageTechnology": "technologies of use",
+  "subtitleTechnology": "move the mouse or touch the icons",
+  "messageProjects": "my projects and those in which I participated"
+
 }
