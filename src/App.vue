@@ -1,6 +1,5 @@
 <template>
-  <div id="app" style="background-color: #111827;
-">
+  <div id="app" style="background-color: #111827;">
     <barra-vue/>
 
     <div class="m-4">
