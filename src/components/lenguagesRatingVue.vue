@@ -1,9 +1,9 @@
 <template>
   <b-container>
     <b-card variant="dark" class="shadow-lg rounded mt-5" style="background-color: #1f2937" text-variant="light">
-      <span class="text-light font-weight-bold">{{$t('messagePercentage')}} </span>
+      <span class="text-light font-weight-bold">{{$t('messageLevel')}} </span>
       <br />
-      <span class="text-secondary"> {{$t('subtitlePercentage')}}</span>
+      <span class="text-secondary"> {{$t('subtitleLevel')}}</span>
       <hr />
       <br />
       <div v-for="bar in bars" :key="bar.value" class="row mb-2">
@@ -25,18 +25,18 @@
 </template>
 <script>
 export default {
-    name: 'lenguagesVue',
+    name: 'lenguagesRatingVue',
     data() {
         return {
             bars: [
-              {title: "Xamarin", value: 80, variant: "primary"},
-              {title: "Vue JS", value: 60, variant: "success"},
-              {title: "C#", value: 80, variant: "primary"},
-              {title: "Electron", value: 55, variant: "success"},
-              {title: "Windows form", value: 35, variant: "warning"},
-              {title: "NodeJs", value: 45, variant: "primary"},
-              {title: "JavaScript", value:70, variant: "warning"},
-              {title: "TypeScript", value: 40, variant: "primary"},
+              {title: "C#", value: 85, variant: "success"},
+              {title: "Xamarin", value: 80, variant: "success"},
+              {title: "JavaScript", value:70, variant: "primary"},
+              {title: "Vue JS", value: 65, variant: "primary"},
+              {title: "Electron", value: 55, variant: "warning"},
+              {title: "NodeJs", value: 45, variant: "warning"},
+              {title: "Windows form", value: 40, variant: "danger"},
+              {title: "TypeScript", value: 40, variant: "danger"},
             ]
         }
     }

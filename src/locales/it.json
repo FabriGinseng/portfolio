@@ -10,6 +10,10 @@
   "subtitlePercentage": "(Non rappresenta il livello)",
   "messageTechnology": "Tecnologie utilizzate",
   "subtitleTechnology": "Muovi il mouse e passa sulle icone",
-  "messageProjects": "I miei progetti e quelli a cui ho partecipato"
-
+  "messageProjects": "I miei progetti e quelli a cui ho partecipato",
+  "messageExperience": "Lavoro dal 2017 in Gesan srl, un' azienda informatica che si occupa di sanitá. Sono cresciuto molto da quando sono in questa azienda, ho imparato tecnologie, tecniche e paradigmi di programmazione a me nuovi e stimolanti. Hanno lasciato libero sfogo su quale tecnologia utilizzare per ogni progetto a cui lavoravo. Dalla documentazione, allo studio dei casi d'uso e alla redazione delle specifiche. Mi occupo di sviluppo software soprattuto mobile e web. Prediligo la parte frontend, ma se si ha bisogno riesco anche a cavarmela col backend. ",
+  "messageAboutMe": "Sono Fabrizio, nato nel '95 e da quando avevo 6 anni adoro tutto ció che fa parte del mondo informatico elettronico. Fin da piccolo sapevo che sarei diventato un appassionato di informatica, infatti la mia istruzione si é basata su questo.",
+  "messageTitleExperience": "La mia esperienza",
+  "messageLevel": "Livello raggiunto",
+  "subtitleLevel": "Ovvio, si può sempre migliorare!"
 }

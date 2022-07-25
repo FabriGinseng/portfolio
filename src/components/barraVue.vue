@@ -1,7 +1,7 @@
 <template>
-  <b-navbar toggleable="lg" class="shadow-lg" variant="light">
+  <b-navbar toggleable="lg" class="shadow-lg" type="dark" variant="dark">
     <b-navbar-brand>
-      <b-icon icon="person-circle" variant="dark"></b-icon>
+      <b-icon icon="person-circle" variant="light"></b-icon>
       <span class="font-weight-bold mt-auto ml-2"> Antonio Fabrizio Fiume</span>
     </b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -10,7 +10,7 @@
       <b-navbar-nav>
         <b-nav-item href="#" class="mt-auto ml-auto">
           <b-badge variant="white">
-            <b-icon variant="secondary" icon="code-slash"></b-icon>
+            <b-icon variant="light" icon="code-slash"></b-icon>
             <span class="text-secondary">Software developer </span>
           </b-badge>
         </b-nav-item>
@@ -19,7 +19,7 @@
             class="mt-auto ml-auto">
           <b-badge variant="white">
             <b-icon
-                variant="secondary"
+                variant="light"
                 scale="0.9"
                 icon="geo-alt"
             ></b-icon>
@@ -30,13 +30,13 @@
 
       <b-navbar-nav class="ml-auto display-inline">
         <b-nav-item :href="github"
-        ><b-icon icon="github" variant="dark"></b-icon
+        ><b-icon icon="github" variant="light"></b-icon
         ></b-nav-item>
         <b-nav-item :href="mail"
-        ><b-icon icon="envelope-fill" variant="dark"></b-icon
+        ><b-icon icon="envelope-fill" variant="light"></b-icon
         ></b-nav-item>
         <b-nav-item :href="linkedin"
-        ><b-icon icon="linkedin" variant="dark"></b-icon
+        ><b-icon icon="linkedin" variant="light"></b-icon
         ></b-nav-item>
         <b-nav-item-dropdown :text="$t('changeLanguage')" right>
         <b-dropdown-item v-for="option in options"

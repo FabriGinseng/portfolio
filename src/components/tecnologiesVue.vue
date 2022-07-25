@@ -1,7 +1,7 @@
 <template>
   <b-container>
-    <b-card variant="dark" class="container shadow-lg rounded mt-5">
-      <span class="text-dark font-weight-bold">{{$t('messageTechnology')}}</span> <br />
+    <b-card class="container shadow-lg rounded mt-5" style="background-color: #1f2937" text-variant="light">
+      <span class="text-light font-weight-bold">{{$t('messageTechnology')}}</span> <br />
       <span class="text-secondary">({{$t('subtitleTechnology')}})</span>
 
       <hr />
@@ -14,65 +14,10 @@
           :key="index"
           v-on:mouseover="colorful('icon:' + index)"
           v-on:mouseleave="colorless('icon:' + index)"
+          v-on:click="colorful('icon:' + index)"
           :class="svg.data"
         ></i>
       </div>
-    </b-card>
-    <b-card class="mt-1 rounded shadow-sm">
-      <span class="text-dark font-weight-bold">My tags</span> <br>
-      <hr>
-      <b-row>
-        <b-col>
-          <b-badge variant="dark">
-            Antonio Fabrizio Fiume
-          </b-badge>
-        </b-col>
-        <b-col>
-          <b-badge>
-            https://github.com/FabriGinseng
-          </b-badge>
-        </b-col>
-        <b-col>
-          <b-badge variant="danger ">
-            Italy
-          </b-badge>
-        </b-col>
-        <b-col>
-          <b-badge variant="primary">
-            Software developer
-          </b-badge>
-        </b-col>
-        <b-col>
-          <b-badge variant="success">
-            Mobile developer
-          </b-badge>
-        </b-col>
-        <b-col>
-          <b-badge variant="dark">
-            Team Work
-          </b-badge>
-        </b-col>
-        <b-col>
-          <b-badge variant="primary">
-            engineering
-          </b-badge>
-        </b-col>
-        <b-col>
-          <b-badge variant="success">
-            frontend developer
-          </b-badge>
-        </b-col>
-        <b-col>
-          <b-badge variant="warning">
-            Improve yourself
-          </b-badge>
-        </b-col>
-        <b-col>
-          <b-badge variant="dark">
-            bachelor's degree in computer engineering
-          </b-badge>
-        </b-col>
-      </b-row>
     </b-card>
   </b-container>
 </template>

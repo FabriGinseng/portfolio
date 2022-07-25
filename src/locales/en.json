@@ -6,10 +6,15 @@
   "languageEN": "English",
   "messageProfileTitle": "Personal Profile",
   "messageThesis": "My thesis work pushed me beyond my comfort zone, exploring topics and studies that I never would have imagined years ago. I have created a responsive web platform, through VUE JS, which allows those who connect to build and operate on concept maps, but the platform does not only have this as its purpose, but above all to know the measure of didactic entropy. Entropy measures didactic disorder. This measure in fact provides a dimension of how much a concept map, with any number of concepts / nodes, and a certain number of arcs, presents different paths on the concepts to be learned. The platform is visible at https://entropy-henna.vercel.app\nThis work allowed me to tackle new topics and push my knowledge even into topics that I believed did not belong to my being.",
-  "messagePercentage": "percentage of use",
+  "messagePercentage": "Percentage of use",
   "subtitlePercentage": "(this doesn't represent the level)",
-  "messageTechnology": "technologies of use",
+  "messageTechnology": "Technologies of use",
   "subtitleTechnology": "move the mouse or touch the icons",
-  "messageProjects": "my projects and those in which I participated"
+  "messageProjects": "my projects and those in which I participated",
+  "messageExperience": "I have been working since 2017 in Gesan srl, an IT company that deals with health. I have grown a lot since I joined this company, I learned new and stimulating technologies, techniques and programming paradigms. They let loose what technology to use for each project I was working on. From documentation, to study of use cases and drafting of specifications. I deal with mobile and web software development. I prefer the frontend, but if you need it I can also get by with the backend.",
+  "messageAboutMe": "I am Fabrizio, born in '95 and since I was 6 I love everything that is part of the electronic computer world. From an early age I knew that I would become a computer enthusiast, in fact my education was based on this. ",
+  "messageTitleExperience": "My experience",
+  "messageLevel": "Experience Level",
+  "subtitleLevel": "Of course, there is always room for improvement"
 
 }

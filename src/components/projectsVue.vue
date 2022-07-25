@@ -1,5 +1,5 @@
 <template>
-     <b-container class="mt-5 contenedor col-md-12" >
+     <b-container class="mt-5" >
     <b-badge class="w-100 text-white font-weight-bolder mx-auto p-1" variant="dark">{{$t('messageProjects')}}</b-badge>
     <b-carousel
         id="carousel"
